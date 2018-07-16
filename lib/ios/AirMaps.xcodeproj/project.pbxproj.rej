@@ -141,14 +141,14 @@
 - 			sourceTree = "<group>";
 - 		};
   /* End PBXGroup section */
-
+  
   /* Begin PBXNativeTarget section */
 --- 183,188 ----
   			path = AirMaps;
   			sourceTree = "<group>";
   		};
   /* End PBXGroup section */
-
+  
   /* Begin PBXNativeTarget section */
 ***************
 *** 337,382 ****
@@ -197,7 +197,7 @@
 - 				9B9498CC2017EFB800158761 /* AIRGMSPolygon.m in Sources */,
   				1125B2DE1C4AD3DA007D0023 /* AIRMapCircleManager.m in Sources */,
   				1125B2DC1C4AD3DA007D0023 /* AIRMapCalloutManager.m in Sources */,
-
+  
 --- 240,268 ----
   			buildActionMask = 2147483647;
   			files = (
@@ -227,3 +227,4 @@
   				628F81231FD16EFA0058313A /* AIRMapLocalTileManager.m in Sources */,
   				1125B2DE1C4AD3DA007D0023 /* AIRMapCircleManager.m in Sources */,
   				1125B2DC1C4AD3DA007D0023 /* AIRMapCalloutManager.m in Sources */,
+  
